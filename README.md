@@ -1,7 +1,7 @@
 # Restaurants Review System
-## Design:
-the project contains two parts Server and client.
-### Server
+
+The project contains two parts Server and client.
+## Server
 The server has the model and the API.
 #### The Model:       
 Restaurant schema, which contains the details of singular restaurant = name and location
