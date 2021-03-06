@@ -1,0 +1,22 @@
+[
+    {
+      "name": "KFC",
+      "location": {"location":"United States","lat":1,"lng":1}
+    },
+    {
+      "name": "McDonalds",
+      "location": {"location":"Israel","lat":1,"lng":1}
+    },
+    {
+      "name": "Wendys",
+      "location": {"location":"United States","lat":1,"lng":1}
+    },
+    {
+      "name": "Pizza Hut",
+      "location": {"location":"Israel","lat":1,"lng":1}
+    },
+    {
+      "name": "Dominos",
+      "location": {"location":"Israel","lat":1,"lng":1}
+    }
+  ]
