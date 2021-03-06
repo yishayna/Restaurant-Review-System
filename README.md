@@ -63,5 +63,5 @@ you can press the profiles in the toolbar and get a full view of all the usernam
 
 sigh out of the system, and you can enter with a different user and see that all his additions are set.
 
-Additional features:
+### Additional features:
 The project interfaces with google maps; while choosing a location on the website, a list of all available locations in the world will appear to the user.
